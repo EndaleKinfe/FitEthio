@@ -3,5 +3,10 @@
     <style name="Base.Theme.FitEthiopia" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/golden</item>
+        <item name="colorSecondary">@color/brown</item>
+        <item name="colorSurface">@color/dark</item>
+        <item name="colorContainer">@color/lightdark</item>
+        <item name="colorButtonNormal">@color/white</item>
     </style>
 </resources>

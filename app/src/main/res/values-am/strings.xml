@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FitEthiopia</string>
     <string name="next">Next</string>
@@ -21,7 +22,4 @@
     <string name="genderdisc">This will help up in creating the perfect workout plan for you</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
-
-
-
 </resources>
