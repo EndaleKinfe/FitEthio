@@ -21,12 +21,12 @@
 
     <EditText
         android:id="@+id/email_input"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="57dp"
-        android:inputType="textEmailAddress"
         android:background="@drawable/input_background"
         android:hint="@string/email"
+        android:inputType="textEmailAddress"
         android:textColor="#222221"
         android:textColorHint="#A1885D"
         app:layout_constraintEnd_toEndOf="parent"
@@ -35,7 +35,7 @@
 
     <EditText
         android:id="@+id/pass_input"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:background="@drawable/input_background"
